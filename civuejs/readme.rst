@@ -25,5 +25,6 @@ Include:
 2. Bulma - for Modal
 3. Animate CSS - for animation design
 4. Font Awesome - for cool icons
+5. Jquery - need for bootstrap but not use
 5. Axios - AJAX/HTTP library
 
