@@ -1,8 +1,7 @@
-#######################################
-Simple CRUD with Codeigniter and Vue JS
-#######################################
+# Simple CRUD with Codeigniter and Vue JS
 
-PHP version : 7.0
+
+PHP version : 7.0.
 Codeigniter version: 3.1.6
 Vue JS version: v2.5.17-beta.0
 
