@@ -10,20 +10,20 @@ Simple CRUD with Codeigniter and Vue JS
 **********
 Functions:
 **********
-Create
-Read
-Edit
-Delete
-Search
-Pagination
+1. Create
+2. Read
+3. Edit
+4. Delete
+5. Search
+6. Pagination
 
 
 ********
 Include:
 ********
-Bootstrap 4 - for Design
-Bulma - for Modal
-Animate CSS - for animation design
-Font Awesome - for cool icons
-Axios - AJAX/HTTP library
+1. Bootstrap 4 - for Design
+2. Bulma - for Modal
+3. Animate CSS - for animation design
+4. Font Awesome - for cool icons
+5. Axios - AJAX/HTTP library
 
