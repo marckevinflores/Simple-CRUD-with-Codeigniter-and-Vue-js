@@ -1,15 +1,13 @@
-#######################################
-Simple CRUD with Codeigniter and Vue JS
-#######################################
+# Simple CRUD with Codeigniter and Vue JS
 
 1. PHP version : 7.0
 2. Codeigniter version: 3.1.6
 3. Vue JS version: v2.5.17-beta.0
 
 
-**********
-Functions:
-**********
+
+#### Functions:
+
 1. Create
 2. Read
 3. Edit
@@ -18,9 +16,8 @@ Functions:
 6. Pagination
 
 
-********
-Include:
-********
+#### Include:
+
 1. Bootstrap 4 - for Design
 2. Bulma - for Modal
 3. Animate CSS - for animation design
